@@ -10,6 +10,7 @@
 `git clone "https://github.com/BrunoSerpa/Desafio01_DW1" .`
 <h3>4º Passo: Após todos os arquivos estiverem baixados, feche o cmd.</h3>
 <h3>5º Passo: Execute o arquivo `index.html` (encontrado em `src/templates`) em seu navegador padrão.</h3>
+
 # Ferramentas Utilizadas
 
 <a href="https://www.w3schools.com/html/">HTML</a>: Estruturação das páginas.<br/>Foram utilizados: `a`, `b`, `br`, `div`, `form`, `img`, `hr`, `h1`, `input`, `li`, `nav`, `ol`, `p` e `textarea`.
