@@ -5,7 +5,7 @@ fazer um site html de acordo com o enunciado da pasta ```doc/``` utilizando some
 ## Pastas
 
 ## ```doc/```
-Contém o PDF com o enunciado do Desafio e como o site deverá ficar e a imagem do 2°passo do README mencionado abaixo.
+Contém o PDF com o enunciado do Desafio e como o site deverá ficar e as imagens dos passos do README mencionado abaixo.
 
 ## ```src/```
 
